@@ -1,0 +1,20 @@
+## References
+
+### Justin Faretta
+**Technical Product Manager**
+- Email: [justin.faretta@uscca.com](mailto:Justin.Faretta@uscca.com)
+- Phone: 262-323-3616
+
+---
+
+### Jon Mayhack
+**Director of Engineering**
+- Email: [jonathan.mayhak@uscca.com](mailto:jonathan.mayhak@uscca.com)
+- Phone: 803-351-8143
+
+---
+
+### Steven Fuerbringer
+**Fullstack Developer**
+- Email: [steven.fuerbringer@uscca.com](mailto:steven.fuerbringer@uscca.com)
+- Phone: 262-707-3753
